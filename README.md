@@ -1,4 +1,5 @@
-# 👨🏻‍💻 Felipe Vieira [![LinkedIn Badge](https://img.shields.io/badge/-Felipe%20Vieira-6495ED?style=flat-square&labelColor=6495ED&logo=linkedin&logoColor=white&link=www.linkedin.com/in/felipedeav)](www.linkedin.com/in/felipedeav) [![Gmail Badge](https://img.shields.io/badge/-felipeav@id.uff.br-c13232?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipeav@id.uff.br)](mailto:felipeav@id.uff.br)
+# 👨🏻‍💻 Felipe Vieira 
+[![LinkedIn Badge](https://img.shields.io/badge/-Felipe%20Vieira-6495ED?style=flat-square&labelColor=6495ED&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/felipedeav)](https://www.linkedin.com/in/felipedeav)[![Gmail Badge](https://img.shields.io/badge/-felipeav@id.uff.br-c13232?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipeav@id.uff.br)](mailto:felipeav@id.uff.br)
 
 
 
