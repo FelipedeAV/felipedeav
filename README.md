@@ -6,7 +6,7 @@
 <img align="right"  src="https://github.com/FelipedeAV/felipedeav/blob/main/foto.png" width="425px"/>
 
 - 📚 Estudante de Tecnologia em Sistemas de Computação - Univerisidade Federal Fluminense, 5° semestre.
-- 🎓 Formado em Licenciatura em Matemática
+- 🎓 Formado em Licenciatura em Matemática - UFRRJ
 - 💙 Interesse: Banco de Dados
 - 🔍 Atualmente aberto a novas oportunidades.
 
