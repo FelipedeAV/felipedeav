@@ -5,7 +5,7 @@
 
 <img align="right"  src="https://github.com/FelipedeAV/felipedeav/blob/main/foto.png" width="425px"/>
 
-- 📚 Estudante de Tecnologia em Sistemas de Computação - Univerisidade Federal Fluminense, 5° semestre.
+- 📚 Formado em Tecnologia em Sistemas de Computação - Univerisidade Federal Fluminense
 - 🎓 Formado em Licenciatura em Matemática - UFRRJ
 - 💙 Interesse: Kotlin
 - 🖥️ Stone Co.
